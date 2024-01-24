@@ -1,0 +1,3 @@
+clas Main {
+
+}
